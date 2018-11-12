@@ -1,0 +1,17 @@
+h1 {
+    text-align: center;
+}
+
+* {
+    margin-left: 15px;
+    margin-right: 15px;
+    text-align: center;
+}
+
+li {
+   text-align: left; 
+}
+
+.about {
+    text-align: center;
+}
